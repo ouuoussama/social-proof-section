@@ -131,7 +131,7 @@
         width: 100%;
     }
     body{
-        background:  url(images/bg-pattern-bottom-mobile.svg) no-repeat 100% 100px/1600px, url(images/bg-pattern-top-mobile.svg) no-repeat 0% top/600px 400px;
+        background:  url(images/bg-pattern-bottom-mobile.svg) no-repeat 100% 100px/1600px, url(images/bg-pattern-top-mobile.svg) no-repeat 0% top/360px 270px;
     }
   }
   @media only screen and (max-width: 620px){

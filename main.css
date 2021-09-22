@@ -153,6 +153,12 @@
         margin: 5em 2em 5em 2em; 
     }
   }
+  
+  @media only screen and (max-width: 310px){
+      body{
+        background:  url(images/bg-pattern-bottom-mobile.svg) no-repeat 100% 157px/1600px, url(images/bg-pattern-top-mobile.svg) no-repeat 0% top/360px 270px;
+      }
+  }
   @media only screen and (max-width: 310px){
     header{
         margin: 5em 1em 0em 1em; 
